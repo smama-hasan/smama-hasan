@@ -67,20 +67,24 @@ const samama = {
 
 ---
 
-### GitHub stats
+### Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%20years-64ffda?style=for-the-badge&labelColor=0a192f" alt="6 years experience" />
+  <img src="https://img.shields.io/badge/Projects%20shipped-13%2B-64ffda?style=for-the-badge&labelColor=0a192f" alt="13+ projects" />
+  <img src="https://img.shields.io/badge/On--time%20delivery-100%25-64ffda?style=for-the-badge&labelColor=0a192f" alt="100% on-time" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20perf-%2B35%25-a78bfa?style=for-the-badge&labelColor=0a192f" alt="+35% system performance" />
+  <img src="https://img.shields.io/badge/Deploy%20failures-%E2%88%9240%25-a78bfa?style=for-the-badge&labelColor=0a192f" alt="-40% deploy failures" />
+  <img src="https://img.shields.io/badge/Production%20bugs-%E2%88%9230%25-a78bfa?style=for-the-badge&labelColor=0a192f" alt="-30% bugs" />
+  <img src="https://img.shields.io/badge/API%20latency-%E2%88%9240%25-a78bfa?style=for-the-badge&labelColor=0a192f" alt="-40% API latency" />
+</p>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smama-hasan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smama-hasan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="top languages" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=smama-hasan&hide_border=true&theme=tokyonight" alt="streak" />
-
+  <img height="170" src="https://streak-stats.demolab.com?user=smama-hasan&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
-
-> _Stats render against a brand-new account — they'll fill in as I push more public work._
 
 ---
 
